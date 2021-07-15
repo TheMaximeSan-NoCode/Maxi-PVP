@@ -1,0 +1,13 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "particle": "blocks/emerald_block_side",
+    "side": "blocks/emerald_block_side",
+    "front": "blocks/emerald_block_side",
+    "up": "blocks/emerald_block_top",
+    "down": "blocks/emerald_block_bottom"
+
+
+
+  }
+}
